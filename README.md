@@ -1,3 +1,5 @@
+## Fake News Detection for other Languages
+
 This repository hosts a Fake News Detection framework specifically designed for Tamil and Malayalam languages. The growing influence of digital media has led to an increase in misinformation, posing a challenge for truth and reliability in news consumption. To combat this, the framework leverages Natural Language Processing (NLP) and Machine Learning (ML) to accurately classify news content as real or fake.
 
 This multi-stage pipeline integrates a combination of pre-trained language models, classical ML approaches, and neural networks, providing robust detection capabilities for Tamil and Malayalam language texts. The framework is trained on the HASOC-Offensive Language Identification (DravidianCodeMix) dataset, ensuring the model's capability to handle Dravidian language nuances.
